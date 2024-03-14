@@ -1,0 +1,98 @@
+// sudo journalctl -p err
+Mar 11 01:55:29 debian wpa_supplicant[802]: bgscan simple: Failed to enable signal strength monitoring
+Mar 11 01:55:33 debian lightdm[279600]: gkr-pam: unable to locate daemon control file
+Mar 11 01:55:37 debian wpa_supplicant[802]: bgscan simple: Failed to enable signal strength monitoring
+Mar 11 13:25:12 debian wpa_supplicant[802]: bgscan simple: Failed to enable signal strength monitoring
+Mar 11 13:25:22 debian lightdm[281467]: gkr-pam: unable to locate daemon control file
+Mar 11 14:54:19 debian wpa_supplicant[802]: bgscan simple: Failed to enable signal strength monitoring
+Mar 11 14:54:22 debian lightdm[282474]: gkr-pam: unable to locate daemon control file
+Mar 11 15:30:35 debian kernel: Out of memory: Killed process 278329 (chrome) total-vm:1186394908kB, anon-rss:534308kB, file-rss:0kB, shmem-rss:10296kB, UID:1000 pgtables:3148kB oom_score_adj:300
+Mar 11 20:39:31 debian wpa_supplicant[802]: bgscan simple: Failed to enable signal strength monitoring
+Mar 11 20:39:33 debian lightdm[290928]: gkr-pam: unable to locate daemon control file
+Mar 12 08:36:50 debian wpa_supplicant[802]: bgscan simple: Failed to enable signal strength monitoring
+Mar 12 08:36:52 debian lightdm[302839]: gkr-pam: unable to locate daemon control file
+Mar 12 08:36:57 debian wpa_supplicant[802]: bgscan simple: Failed to enable signal strength monitoring
+Mar 12 19:39:52 debian wpa_supplicant[802]: bgscan simple: Failed to enable signal strength monitoring
+Mar 12 19:39:58 debian wpa_supplicant[802]: bgscan simple: Failed to enable signal strength monitoring
+Mar 12 19:40:01 debian lightdm[317084]: gkr-pam: unable to locate daemon control file
+Mar 13 01:57:33 debian kernel: Out of memory: Killed process 303061 (chrome) total-vm:1186392736kB, anon-rss:736708kB, file-rss:0kB, shmem-rss:15288kB, UID:1000 pgtables:3484kB oom_score_adj:300
+Mar 13 02:44:55 debian kernel: CIFS: VFS: \\192.168.50.132\share_dir Close unmatched open for MID:25133
+Mar 13 07:45:09 debian wpa_supplicant[802]: bgscan simple: Failed to enable signal strength monitoring
+Mar 13 07:45:12 debian lightdm[338788]: gkr-pam: unable to locate daemon control file
+Mar 13 16:38:20 debian kernel: Out of memory: Killed process 56866 (code) total-vm:1191133884kB, anon-rss:284940kB, file-rss:0kB, shmem-rss:17044kB, UID:1000 pgtables:2484kB oom_score_adj:300
+Mar 13 19:15:19 debian kernel: [drm:dc_dmub_srv_wait_idle [amdgpu]] *ERROR* Error waiting for DMUB idle: status=3
+Mar 13 19:15:23 debian wpa_supplicant[802]: bgscan simple: Failed to enable signal strength monitoring
+Mar 13 19:16:28 debian lightdm[359267]: gkr-pam: unable to locate daemon control file
+Mar 13 20:57:44 debian kernel: Out of memory: Killed process 362101 (chrome) total-vm:1188616540kB, anon-rss:859904kB, file-rss:0kB, shmem-rss:48740kB, UID:1000 pgtables:3348kB oom_score_adj:300
+Mar 13 22:10:18 debian kernel: Out of memory: Killed process 362704 (chrome) total-vm:1186413344kB, anon-rss:396092kB, file-rss:0kB, shmem-rss:30236kB, UID:1000 pgtables:3016kB oom_score_adj:300
+Mar 13 22:30:38 debian kernel: Out of memory: Killed process 348265 (code) total-vm:1189036528kB, anon-rss:433224kB, file-rss:0kB, shmem-rss:3976kB, UID:1000 pgtables:2388kB oom_score_adj:300
+Mar 13 22:31:24 debian kernel: Out of memory: Killed process 87256 (code) total-vm:1193204036kB, anon-rss:363676kB, file-rss:0kB, shmem-rss:15628kB, UID:1000 pgtables:2236kB oom_score_adj:300
+Mar 13 22:33:57 debian kernel: Out of memory: Killed process 325981 (code) total-vm:1189017816kB, anon-rss:331708kB, file-rss:0kB, shmem-rss:4936kB, UID:1000 pgtables:1904kB oom_score_adj:300
+Mar 13 22:34:35 debian kernel: Out of memory: Killed process 226447 (code) total-vm:1189011336kB, anon-rss:314316kB, file-rss:0kB, shmem-rss:4844kB, UID:1000 pgtables:2528kB oom_score_adj:300
+Mar 14 00:46:40 debian wpa_supplicant[802]: bgscan simple: Failed to enable signal strength monitoring
+Mar 14 00:46:48 debian lightdm[384172]: gkr-pam: unable to locate daemon control file
+Mar 14 08:13:29 debian wpa_supplicant[802]: bgscan simple: Failed to enable signal strength monitoring
+Mar 14 08:47:02 debian kernel: amdgpu 0000:04:00.0: amdgpu: Secure display: Generic Failure.
+Mar 14 08:47:02 debian kernel: amdgpu 0000:04:00.0: amdgpu: SECUREDISPLAY: query securedisplay TA failed. ret 0x0
+Mar 14 08:47:02 debian (udev-worker)[472]: could not read from '/sys/module/pcc_cpufreq/initstate': No such device
+Mar 14 08:47:03 debian bluetoothd[817]: src/plugin.c:plugin_init() Failed to init vcp plugin
+Mar 14 08:47:03 de bian bluetoothd[817]: src/plugin.c:plugin_init() Failed to init mcp plugin
+Mar 14 08:47:03 debian bluetoothd[817]: src/plugin.c:plugin_init() Failed to init bap plugin
+Mar 14 08:47:05 debian bluetoothd[817]: profiles/sap/server.c:sap_server_register() Sap driver initialization failed.
+Mar 14 08:47:05 debian bluetoothd[817]: sap-server: Operation not permitted (1)
+Mar 14 08:47:07 debian wpa_supplicant[791]: bgscan simple: Failed to enable signal strength monitoring
+Mar 14 08:47:13 debian wpa_supplicant[791]: bgscan simple: Failed to enable signal strength monitoring
+Mar 14 08:48:20 debian lightdm[1050]: gkr-pam: unable to locate daemon control file
+Mar 14 08:48:20 debian pulseaudio[931]: Error opening PCM device _ucm0003.hw:Generic_1: No such device
+Mar 14 08:48:20 debian pulseaudio[931]: Error opening PCM device _ucm0003.hw:Generic_1: No such device
+Mar 14 08:48:20 debian pulseaudio[931]: Error opening PCM device _ucm0003.hw:acp: No such device
+Mar 14 08:48:53 debian kernel: watchdog: watchdog0: watchdog did not stop!
+-- Boot d5ae85bde6234cd6bdd021dbbf04d8fe --
+Mar 14 08:54:42 debian kernel: amdgpu 0000:04:00.0: amdgpu: Secure display: Generic Failure.
+Mar 14 08:54:42 debian kernel: amdgpu 0000:04:00.0: amdgpu: SECUREDISPLAY: query securedisplay TA failed. ret 0x0
+Mar 14 08:54:43 debian bluetoothd[765]: src/plugin.c:plugin_init() Failed to init vcp plugin
+Mar 14 08:54:43 debian bluetoothd[765]: src/plugin.c:plugin_init() Failed to init mcp plugin
+Mar 14 08:54:43 debian bluetoothd[765]: src/plugin.c:plugin_init() Failed to init bap plugin
+Mar 14 08:54:43 debian bluetoothd[765]: profiles/sap/server.c:sap_server_register() Sap driver initialization failed.
+Mar 14 08:54:43 debian bluetoothd[765]: sap-server: Operation not permitted (1)
+Mar 14 08:54:47 debian wpa_supplicant[804]: bgscan simple: Failed to enable signal strength monitoring
+Mar 14 08:55:40 debian lightdm[1030]: gkr-pam: unable to locate daemon control file
+Mar 14 08:55:40 debian pulseaudio[912]: Error opening PCM device _ucm0001.hw:Generic,3: No such device
+Mar 14 08:55:40 debian pulseaudio[912]: Error opening PCM device _ucm0003.hw:Generic_1: No such device
+Mar 14 08:55:40 debian pulseaudio[912]: Error opening PCM device _ucm0003.hw:Generic_1: No such device
+Mar 14 08:55:40 debian pulseaudio[912]: Error opening PCM device _ucm0003.hw:acp: No such device
+Mar 14 08:55:48 debian xdg-desktop-portal[1617]: pw.conf: can't load default config client.conf: No such file or directory
+Mar 14 09:09:32 debian kernel: watchdog: watchdog0: watchdog did not stop!
+-- Boot 82cc8814ddb043d6bef7c00ae25af409 --
+Mar 14 09:09:52 debian kernel: amdgpu 0000:04:00.0: amdgpu: Secure display: Generic Failure.
+Mar 14 09:09:52 debian kernel: amdgpu 0000:04:00.0: amdgpu: SECUREDISPLAY: query securedisplay TA failed. ret 0x0
+Mar 14 09:09:53 debian bluetoothd[745]: src/plugin.c:plugin_init() Failed to init vcp plugin
+Mar 14 09:09:53 debian bluetoothd[745]: src/plugin.c:plugin_init() Failed to init mcp plugin
+Mar 14 09:09:53 debian bluetoothd[745]: src/plugin.c:plugin_init() Failed to init bap plugin
+Mar 14 09:09:53 debian bluetoothd[745]: profiles/sap/server.c:sap_server_register() Sap driver initialization failed.
+Mar 14 09:09:53 debian bluetoothd[745]: sap-server: Operation not permitted (1)
+Mar 14 09:09:58 debian wpa_supplicant[784]: bgscan simple: Failed to enable signal strength monitoring
+Mar 14 09:10:11 debian lightdm[1027]: gkr-pam: unable to locate daemon control file
+Mar 14 09:10:12 debian pulseaudio[920]: Error opening PCM device _ucm0001.hw:Generic,3: No such device
+Mar 14 09:10:12 debian pulseaudio[920]: Error opening PCM device _ucm0003.hw:Generic_1: No such device
+Mar 14 09:10:12 debian pulseaudio[920]: Error opening PCM device _ucm0003.hw:Generic_1: No such device
+Mar 14 09:10:12 debian pulseaudio[920]: Error opening PCM device _ucm0003.hw:acp: No such device
+Mar 14 09:10:23 debian xdg-desktop-portal[1631]: pw.conf: can't load default config client.conf: No such file or directory
+Mar 14 10:40:30 debian kernel: watchdog: watchdog0: watchdog did not stop!
+-- Boot e8f4c9b5b8984e2f997cdc4dde825d36 --
+Mar 14 10:40:49 debian kernel: amdgpu 0000:04:00.0: amdgpu: Secure display: Generic Failure.
+Mar 14 10:40:49 debian kernel: amdgpu 0000:04:00.0: amdgpu: SECUREDISPLAY: query securedisplay TA failed. ret 0x0
+Mar 14 10:40:50 debian bluetoothd[766]: src/plugin.c:plugin_init() Failed to init vcp plugin
+Mar 14 10:40:50 debian bluetoothd[766]: src/plugin.c:plugin_init() Failed to init mcp plugin
+Mar 14 10:40:50 debian bluetoothd[766]: src/plugin.c:plugin_init() Failed to init bap plugin
+Mar 14 10:40:50 debian bluetoothd[766]: profiles/sap/server.c:sap_server_register() Sap driver initialization failed.
+Mar 14 10:40:50 debian bluetoothd[766]: sap-server: Operation not permitted (1)
+Mar 14 10:40:54 debian wpa_supplicant[794]: bgscan simple: Failed to enable signal strength monitoring
+Mar 14 10:40:57 debian wpa_supplicant[794]: bgscan simple: Failed to enable signal strength monitoring
+Mar 14 10:53:53 debian wpa_supplicant[794]: bgscan simple: Failed to enable signal strength monitoring
+Mar 14 10:55:03 debian lightdm[1126]: gkr-pam: unable to locate daemon control file
+Mar 14 10:55:03 debian pulseaudio[914]: Error opening PCM device _ucm0003.hw:Generic_1: No such device
+Mar 14 10:55:03 debian pulseaudio[914]: Error opening PCM device _ucm0003.hw:acp: No such device
+Mar 14 10:55:03 debian pulseaudio[914]: Error opening PCM device _ucm0001.hw:Generic,7: No such device
+Mar 14 10:55:03 debian pulseaudio[914]: Error opening PCM device _ucm0001.hw:Generic,3: No such device
+Mar 14 10:55:11 debian xdg-desktop-portal[1716]: pw.conf: can't load default config client.conf: No such file or directory
